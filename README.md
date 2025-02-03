@@ -2,7 +2,7 @@
 <h3 align="center">A passionate junior developer from Portugal</h3>
 
 - 📫 How to reach me **https://leomenino.github.io/Portfolio/**
-
+**leonelmenino@gmail.com**
 
 <p align="left">
 </p>
