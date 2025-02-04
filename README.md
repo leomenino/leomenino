@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Leonel Menino</h1>
 <h3 align="center">A passionate junior developer from Portugal</h3>
 
-- 📫 How to reach me **https://leomenino.github.io/Portfolio/**
-- <br>
+- 📫 How to reach me:
+  <br>
+**https://leomenino.github.io/Portfolio/**
+  <br>
 **leonelmenino@gmail.com**
 
 <p align="left">
